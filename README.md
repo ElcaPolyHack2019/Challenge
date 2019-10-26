@@ -3,8 +3,6 @@
 ## Motivation
 During a Mars expedition, some astronauts went missing and are not able to communicate anymore. As a rescue team just landed on Mars, your task is to analyze the unknown terrain, navigate thru it and search for as many astronauts as possible before the energy goes out.
 
-## General Requirements
-
 ## Challenge Criteria
 
 ### Points
