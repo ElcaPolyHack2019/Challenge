@@ -13,14 +13,14 @@ During a Mars expedition, some astronauts went missing and are not able to commu
 | Driving | The rover is able to drive to a point on Mars. | 10 |
 | Mapping | A visual map is created that represents the area with the obstacles. | 30 |
 | Pathfinding | An efficient algorithm is used to find a way thru the area. | 5 |
-| Astronaut Detection | A yellow astronaut can be detected with the camera. | 3 |
-| Astronaut Pick-Up | The rover drives to the astronaut (max 30cm away from center of the rover) and faces it with the front. | 5 |
-| Astronaut Rescuing | A picked up astronaut is brought to the starting point. | 8 |
+| Astronaut Detection | A yellow astronaut can be detected with the camera. | 3 (per astronaut detected) |
+| Astronaut Pick-Up | The rover drives to the astronaut (max 30cm away from center of the rover) and faces it with the front. Multiple astronauts can be carried at the same time. | 5 (per pick-up) |
+| Astronaut Rescuing | A picked up astronaut is brought to the starting point. | 5 (per astronaut returned) |
 
 ### Malus Points
 | Criteria        | Description     | Points  |
 | --------------- | --------------- | ------- |
-| Driving | The rover drives into an obstacle. | -2 |
+| Driving | The rover drives into an obstacle. | -2 (per collision) |
 | Driving | The rover leaves the area. | -2 |
 | Mapping | Wrongly shown or not shown obstacle on the map. | -3 (per wrong sqm) |
 
