@@ -3,6 +3,8 @@
 ## Motivation
 During a Mars expedition, five astronauts went missing and are not able to communicate anymore. As a rescue team you just landed on Mars. Your task is to analyze the unknown terrain, navigate thru it and search for as many astronauts as possible before the air runs out.
 
+You have 10 minutes to complete the challenge. This includes any last minute tweaking and configuration as well as time for the actual search and rescue.
+
 ## Challenge Criteria
 
 ### Points
