@@ -29,5 +29,3 @@ During a Mars expedition, some astronauts went missing and are not able to commu
 | --------------- | --------------- | ------- |
 | Astronaut Detection | The astronauts are detected by color and shape. | 5 (one-time) |
 | Dynamic Obstacles | Obstacles can be dynamically placed and removed from the area. | 10 (one-time) |
-
-Efficiency
